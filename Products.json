@@ -1,0 +1,28 @@
+{
+    "Lanches": [
+        { "name": "Cachorro quente", "price": 10.00 },
+        { "name": "X-Salada", "price": 15.00 },
+        { "name": "X-Bacon", "price": 18.00 }
+    ],
+
+    "Bebidas": [
+        { "name": "Refrigerante Lata", "price": 6.00 },
+        { "name": "Água", "price": 3.00 },
+        { "name": "Suco", "price": 7.00 }
+    ],
+
+    "Vitamina": [
+        { "name": "Vitamina Pequena", "price": 8.00 },
+        { "name": "Vitamina Grande", "price": 12.00 }
+    ],
+
+    "Açaí": [
+        { "name": "Açaí 300ml", "price": 10.00 },
+        { "name": "Açaí 500ml", "price": 15.00 },
+        { "name": "Açaí 700ml", "price": 20.00 }
+    ],
+
+    "Entrega": [
+        { "name": "Taxa de Entrega", "price": 0 }
+    ]
+}
